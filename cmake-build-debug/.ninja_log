@@ -1,0 +1,5 @@
+# ninja log v5
+1	229	7212650621757744	build.ninja	36ef9ebb259e424b
+4	686	7212647869423362	CMakeFiles/main.cpp.dir/BitArray.cpp.obj	58cbd522a26e35c2
+8	472	7212647444272898	CMakeFiles/main.cpp.dir/main.cpp.obj	4b20d3b125db86c1
+686	852	7212647870820334	main.cpp.exe	32d8ebccb16c380c
