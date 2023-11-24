@@ -1,5 +1,10 @@
 # ninja log v5
-1	229	7212650621757744	build.ninja	36ef9ebb259e424b
-4	686	7212647869423362	CMakeFiles/main.cpp.dir/BitArray.cpp.obj	58cbd522a26e35c2
-8	472	7212647444272898	CMakeFiles/main.cpp.dir/main.cpp.obj	4b20d3b125db86c1
-686	852	7212647870820334	main.cpp.exe	32d8ebccb16c380c
+19	13556	7219005239147353	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6bf1bb82e1be2687
+3	756	7219004166734166	build.ninja	36ef9ebb259e424b
+537	578	7219147636034092	BitArray/libBitArray_t.a	64108730634829bf
+3	536	7219147635603717	BitArray/CMakeFiles/BitArray_t.dir/BitArray.cpp.obj	4fbae7939e5946e2
+3	1565	7219139971295213	CMakeFiles/Test.dir/test.cpp.obj	f3b2edf8fe1a1d09
+25	2671	7219005130408833	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d19cc29c439d5795
+13	3509	7219005688950830	lib/libgtest.a	fea2e8a9cdcc3b5
+3509	3573	7219005689610854	lib/libgtest_main.a	3d73f7b67a29ea9a
+578	3388	7219147664057018	Test.exe	5bd3eb34823470f2

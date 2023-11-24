@@ -1,0 +1,1 @@
+add_library(BitArray_t BitArray.cpp BitArray.h)

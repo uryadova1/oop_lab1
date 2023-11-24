@@ -29,7 +29,7 @@ public:
     //Обменивает значения двух битовых массивов.
     void swap(BitArray &b);
 
-    BitArray &operator=(BitArray &&b);
+    BitArray &operator=(BitArray &b);
 
 
     //Изменяет размер массива. В случае расширения, новые элементы
